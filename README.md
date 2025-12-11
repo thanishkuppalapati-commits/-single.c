@@ -1,4 +1,4 @@
-# -single.c
+#votingsytem.c
 #include <stdio.h>
 
 #define NUM_CANDIDATES 5
